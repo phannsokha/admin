@@ -28,8 +28,8 @@
     "bootstrap-toggle": "^2.2.2",
     "brace": "^0.10.0",
     "cropperjs": "^1.4.0",
-    "datatables-bootstrap3-plugin": "^0.5.0",
-    "datatables.net": "^1.10.15",
+    "datatables-bootstrap3-plugin": "^0.6.0",
+    "datatables.net": "^1.11.3",
     "datetimepicker": "^0.1.38",
     "dropzone": "^5.4.0",
     "highlight": "^0.2.4",
@@ -38,11 +38,11 @@
     "jquery-sortable": "^0.9.13",
     "jquery-ui": "^1.13.2",
     "perfect-scrollbar": "^0.7.1",
-    "readmore-js": "^2.1.0",
-    "select2": "^4.0.6",
+    "readmore-js": "^2.2.1",
+    "select2": "^4.0.8",
     "simplemde": "^1.11.2",
-    "slugify": "^1.3.0",
-    "tinymce": "^4.7.13",
+    "slugify": "^1.3.1",
+    "tinymce": "^5.10.7",
     "toastr": "^2.1.2"
   }
 }
